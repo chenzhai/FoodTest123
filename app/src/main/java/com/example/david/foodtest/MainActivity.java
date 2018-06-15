@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity{
     private boolean isSour;
     private int price = 30;
     private ImageView pic;
+    private static final String TAG = "MainActivity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
